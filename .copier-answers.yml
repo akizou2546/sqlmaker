@@ -1,0 +1,9 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: v1.1.0
+_src_path: gh:mjun0812/python-copier-template
+author_email: 75022093+akizou2546@users.noreply.github.com
+author_name: akizou2546
+description: sqlmaker
+package_name: sqlmaker
+project_name: sqlmaker
+python_version: '3.13'
